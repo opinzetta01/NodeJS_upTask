@@ -4,7 +4,7 @@
   "description": "Proyecto UpTask con Node",
   "engines": {
     "node": "16.2.0",
-    "npm": "7.5.0",
+    "npm": "7.15.0",
   }
   "main": "index.js",
   "scripts": {
